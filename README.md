@@ -5,7 +5,7 @@ I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: I am really into maths,so in my free time i like to solve some problems.
+- :zap: i like to solve some problems.
 
 - :mailbox:How to reach me:
 - [![Telegram Badge](https://img.shields.io/badge/-hpns47-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/hpns47)
