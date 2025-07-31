@@ -1,5 +1,5 @@
-### 👨‍💻 About Me :
-I am a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+### 
+I am a backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 ---
 
